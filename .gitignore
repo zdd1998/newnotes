@@ -1,0 +1,6 @@
+.idea
+classes
+target
+.DS_Store
+src/main/webapp/dist
+src/main/webapp/plugins
